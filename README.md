@@ -1,5 +1,11 @@
-# 💫 About Me:
-- 🔭 Currently working on SQL & Power BI projects  <br>- 🤝 Looking to collaborate on data analysis projects  <br>- 🌱 Currently learning MS Excel more deeply  <br>- 💬 Ask me about SQL, Power BI, and data analysis basics  <br>- ⚡ Fun fact: I enjoy turning raw data into meaningful insights
+<h1 align="center">Hi 👋, I'm Diwakar Tiwari</h1>
+
+## 💫 About Me:
+- 🔭 I’m currently working on **SQL & Power BI Projects**  
+- 🤝 I’m looking to collaborate on **Data Analysis Projects**  
+- 🌱 I’m currently learning **Advanced MS Excel**  
+- 💬 Ask me about **SQL, Power BI & Data Analytics**  
+- ⚡ Fun fact: I love converting **messy data into clean dashboards**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diwakar-tiwari01) 
